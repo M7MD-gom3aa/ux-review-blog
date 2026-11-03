@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://m7md-gom3aa.github.io/ux-review-blog/">Live Demo</a>
+  <a href="https://m7md-gom3aa.github.io/ux-review-blog/">🚀 Live Demo</a>
 </p>
 
 ---
@@ -79,24 +79,10 @@ ux-review-blog/
 ├── index.html
 ├── style.css
 │
-├── image/
-│   ├── hero-img.png
-│   ├── avatar-1.jpg
-│   ├── avatar-2.jpg
-│   ├── ...
-│   └── article images & icons
-│
-├── screenshots/
-│   ├── desktop.png
-│   ├── tablet.png
-│   └── mobile.png
-│
-└── README.md
+└── images/
+    └── ...
 ```
 
-## 🚀 Getting Started
+## 🚀 Live Demo
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/m7md-gom3aa/ux-review-blog.git
+[**View The UX Review Website →**](https://m7md-gom3aa.github.io/ux-review-blog/)
